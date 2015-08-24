@@ -9,7 +9,7 @@ namespace classes
     public class Class1
     {
 
-        public static void details()
+        public static void employeeDetails()
         {
             employee e = new employee();
             e.name = "Himakar";
@@ -41,7 +41,7 @@ namespace classes
             if(name.ToUpper()== "AEZION")
 
             {
-                Class1.details();
+                Class1.employeeDetails();
             }
             else
             {
