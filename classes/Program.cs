@@ -11,7 +11,7 @@ namespace classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" COMPANY DETAILS ");
+            Console.WriteLine(" ::: COMPANY DETAILS ::: ");
             Console.Write("Enter the name of your company :");
             Class1.getCompanyName( Console.ReadLine());       
         }
